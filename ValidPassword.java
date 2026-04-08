@@ -7,7 +7,7 @@ public class ValidPassword {
 
     public static void main(String[] args) {
 
-      /*  Scanner sc = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
         System.out.println("Enter your password:");
         String password = sc.nextLine();
 
@@ -17,10 +17,10 @@ public class ValidPassword {
             System.out.println("It's not a valid password");
         }
 
-        sc.close();*/
+        sc.close();
     	
-    	String password="Upwndra1234@#";
-    	System.out.println(isValidPassword(password));
+    	String password1="Upwndra1234@#";
+    	System.out.println(isValidPassword(password1));
     }
 
     public static boolean isValidPassword(String password) {

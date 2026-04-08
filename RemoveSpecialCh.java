@@ -2,7 +2,7 @@ package Com.My_Package.String;
 
 public class RemoveSpecialCh {
 	public static void main(String[] args) {
-		String s="UPENDRA@2343--&_ARATI##1234%$";
+		String s="UPENDRA@2343--&PRADHAN##1234%$";
 		String rev=" ";
 		char ch;
 	

@@ -1,6 +1,6 @@
 package Com.My_Package.String;
 
-public class stringSwapping {
+public class SwappingString2 {
 
 public static String reverse(String s) {
 		
